@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 69584d24c17ad2f4fa9a8c7c86521901
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 827787134786836525
+    second: linh_0
+  - first:
+      213: 1403127819262411527
+    second: linh_1
+  - first:
+      213: -859577406965139023
+    second: linh_2
+  - first:
+      213: 7756246493428486669
+    second: linh_3
+  - first:
+      213: -6261459665520677141
+    second: linh_4
+  - first:
+      213: -4580847429960309661
+    second: linh_5
+  - first:
+      213: 4171240615821953815
+    second: linh_6
+  - first:
+      213: 2265748040013495137
+    second: linh_7
+  - first:
+      213: -7834346650519134127
+    second: linh_8
+  - first:
+      213: -7515904067309375263
+    second: linh_9
+  - first:
+      213: -2725922792171926247
+    second: linh_10
+  - first:
+      213: 6054799431494033390
+    second: linh_11
+  - first:
+      213: 6357749547322842355
+    second: linh_12
+  - first:
+      213: -3242120643350105643
+    second: linh_13
+  - first:
+      213: 943142021941108330
+    second: linh_14
+  - first:
+      213: 804339967698488932
+    second: linh_15
+  - first:
+      213: -2141707227488156552
+    second: linh_16
+  - first:
+      213: 4506089546698609212
+    second: linh_17
+  - first:
+      213: 6999268521671692847
+    second: linh_18
+  - first:
+      213: -7148313169824637956
+    second: linh_19
+  - first:
+      213: 7593271065421838435
+    second: linh_20
+  - first:
+      213: -4945374657579475801
+    second: linh_21
+  - first:
+      213: 8803618435306541394
+    second: linh_22
+  - first:
+      213: 2877688901767907057
+    second: linh_23
+  - first:
+      213: 6427411087707699105
+    second: linh_24
+  - first:
+      213: -820891064441774872
+    second: linh_25
+  - first:
+      213: -1707592664036759503
+    second: linh_26
+  - first:
+      213: 7941764063266770638
+    second: linh_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: linh_0
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 294
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289b966304ec7b00800000000000000
+      internalID: 827787134786836525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 294
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703ca994159e87310800000000000000
+      internalID: 1403127819262411527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 294
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b934e017ea2214f0800000000000000
+      internalID: -859577406965139023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 294
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d029c276719b3ab60800000000000000
+      internalID: 7756246493428486669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 294
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee243ddb93da19a0800000000000000
+      internalID: -6261459665520677141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 297
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36464f6688f8d60c0800000000000000
+      internalID: -4580847429960309661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bcfba6d3933e930800000000000000
+      internalID: 4171240615821953815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 229
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bba8386dd817f10800000000000000
+      internalID: 2265748040013495137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 233
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502980ca3fc64390800000000000000
+      internalID: -7834346650519134127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e07c1e521522b790800000000000000
+      internalID: -7515904067309375263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 226
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5074d008f60450800000000000000
+      internalID: 6054799431494033390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 227
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc141b47834b3850800000000000000
+      internalID: 6357749547322842355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 224
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1f72ec37ca103d0800000000000000
+      internalID: -3242120643350105643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 159
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e1b860ca6b61d00800000000000000
+      internalID: 943142021941108330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 163
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e415560f6992b00800000000000000
+      internalID: 804339967698488932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 163
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748ea4bf902742e0800000000000000
+      internalID: -2141707227488156552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_17
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 163
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3252158198d88e30800000000000000
+      internalID: 4506089546698609212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 164
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2290d103a5622160800000000000000
+      internalID: 6999268521671692847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 96
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb1b51ab071ccc90800000000000000
+      internalID: -7148313169824637956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 97
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36878b99dc7b06960800000000000000
+      internalID: 7593271065421838435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 97
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac91cd53ff7e5bb0800000000000000
+      internalID: -4945374657579475801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 97
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d686c25cbc2a70800000000000000
+      internalID: 8803618435306541394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_23
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 97
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c5fb3fca9fe720800000000000000
+      internalID: 2877688901767907057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 31
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a779349450c23950800000000000000
+      internalID: 6427411087707699105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 31
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecd7a81deb9b94f0800000000000000
+      internalID: -820891064441774872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 31
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a60fe4896d48e0800000000000000
+      internalID: -1707592664036759503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 158
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d837fb9a39b2ad0800000000000000
+      internalID: -2725922792171926247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: linh_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4136598, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece8af89650d63e60800000000000000
+      internalID: 7941764063266770638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

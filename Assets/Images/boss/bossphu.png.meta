@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: bb9aa666171f76f4e951b4fb99e7676d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9125599099780278982
+    second: bossphu_0
+  - first:
+      213: 1769980154727974841
+    second: bossphu_1
+  - first:
+      213: -5275680101174635428
+    second: bossphu_2
+  - first:
+      213: -426807736686001125
+    second: bossphu_3
+  - first:
+      213: 707897337256807344
+    second: bossphu_4
+  - first:
+      213: -5241248223091279807
+    second: bossphu_5
+  - first:
+      213: 7070399729653774183
+    second: bossphu_6
+  - first:
+      213: -1202092213934736455
+    second: bossphu_7
+  - first:
+      213: -7555366108743231075
+    second: bossphu_8
+  - first:
+      213: -6747547056663184166
+    second: bossphu_9
+  - first:
+      213: -6077039421645335920
+    second: bossphu_10
+  - first:
+      213: -4404219089381179785
+    second: bossphu_11
+  - first:
+      213: -1989518886451257161
+    second: bossphu_12
+  - first:
+      213: 20115697873599069
+    second: bossphu_13
+  - first:
+      213: -145876753592561195
+    second: bossphu_14
+  - first:
+      213: 3845644405292052367
+    second: bossphu_15
+  - first:
+      213: 7914819294774747105
+    second: bossphu_16
+  - first:
+      213: -43109419659116423
+    second: bossphu_17
+  - first:
+      213: -5151816031321472366
+    second: bossphu_18
+  - first:
+      213: -5088397718972126548
+    second: bossphu_19
+  - first:
+      213: -5560630366279927821
+    second: bossphu_20
+  - first:
+      213: 4875609232461642654
+    second: bossphu_21
+  - first:
+      213: 7285117697299289087
+    second: bossphu_22
+  - first:
+      213: -5905396756280582495
+    second: bossphu_23
+  - first:
+      213: 5770681417301790036
+    second: bossphu_24
+  - first:
+      213: -7831956495934643717
+    second: bossphu_25
+  - first:
+      213: 6888376500656833523
+    second: bossphu_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bossphu_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 437
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca27012804a4ae70800000000000000
+      internalID: 9125599099780278982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 437
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b74d0ea29b309810800000000000000
+      internalID: 1769980154727974841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 437
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5493e456e409c6b0800000000000000
+      internalID: -5275680101174635428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 437
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144173ff9ca31af0800000000000000
+      internalID: -426807736686001125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 437
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb03aca0e4f2d900800000000000000
+      internalID: 707897337256807344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 461
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483ffaa2885347b0800000000000000
+      internalID: -5241248223091279807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 437
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f702f71b1f1260800000000000000
+      internalID: 7070399729653774183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 320
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99955cdd82f52790800000000000000
+      internalID: -7555366108743231075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 330
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcbb56b3b5eb52a0800000000000000
+      internalID: -6747547056663184166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 330
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092d8c2f7d40aaba0800000000000000
+      internalID: -6077039421645335920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 209
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb070a21211e2c0800000000000000
+      internalID: -4404219089381179785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 198
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0642b1d1fc364e0800000000000000
+      internalID: -1989518886451257161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 202
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3a22ee17774000800000000000000
+      internalID: 20115697873599069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 209
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d0219dddb9fdf0800000000000000
+      internalID: -145876753592561195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 209
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa6e526397e5530800000000000000
+      internalID: 3845644405292052367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 103
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd47ec63617dd60800000000000000
+      internalID: 7914819294774747105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 103
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ceb21638d66ff0800000000000000
+      internalID: -43109419659116423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 107
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292cbe07d921188b0800000000000000
+      internalID: -5151816031321472366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 112
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa22cceb316269b0800000000000000
+      internalID: -5088397718972126548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_20
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 106
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f772a2b42ca4d2b0800000000000000
+      internalID: -5560630366279927821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 106
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bbd7cc3c4a9a340800000000000000
+      internalID: 4875609232461642654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39f6e82ffe91560800000000000000
+      internalID: 7285117697299289087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aed62430f0db0ea0800000000000000
+      internalID: -5905396756280582495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 7
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8836bc24951050800000000000000
+      internalID: 5770681417301790036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a08bff0d4f4390800000000000000
+      internalID: -7831956495934643717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossphu_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f38cc06eed689f50800000000000000
+      internalID: 6888376500656833523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

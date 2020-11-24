@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 8e0ef5f5efe495f4ab367f078966a939
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3469144720135017477
+    second: m_virusdibo_0
+  - first:
+      213: -7553794134737796366
+    second: m_virusdibo_1
+  - first:
+      213: 2048770301922601968
+    second: m_virusdibo_2
+  - first:
+      213: -3306553859762863612
+    second: m_virusdibo_3
+  - first:
+      213: -2662411958616611184
+    second: m_virusdibo_4
+  - first:
+      213: -5456811402932176042
+    second: m_virusdibo_5
+  - first:
+      213: -8338027467731175845
+    second: m_virusdibo_6
+  - first:
+      213: 4464212256390043096
+    second: m_virusdibo_7
+  - first:
+      213: 6311396352144538281
+    second: m_virusdibo_8
+  - first:
+      213: -8384171156685103786
+    second: m_virusdibo_9
+  - first:
+      213: -7030358890796677723
+    second: m_virusdibo_10
+  - first:
+      213: -7529265861402013255
+    second: m_virusdibo_11
+  - first:
+      213: -8349651984792639503
+    second: m_virusdibo_12
+  - first:
+      213: -7885465076100097311
+    second: m_virusdibo_13
+  - first:
+      213: -4334473317370263660
+    second: m_virusdibo_14
+  - first:
+      213: -3015927973508085033
+    second: m_virusdibo_15
+  - first:
+      213: -3432749243919673600
+    second: m_virusdibo_16
+  - first:
+      213: -9159761855784371916
+    second: m_virusdibo_17
+  - first:
+      213: -7432598444569938116
+    second: m_virusdibo_18
+  - first:
+      213: -6651354488708249279
+    second: m_virusdibo_19
+  - first:
+      213: 6589332176450689461
+    second: m_virusdibo_20
+  - first:
+      213: -3138753458355751388
+    second: m_virusdibo_21
+  - first:
+      213: 3704725176261710330
+    second: m_virusdibo_22
+  - first:
+      213: 8091520136176761848
+    second: m_virusdibo_23
+  - first:
+      213: -7712286950681618080
+    second: m_virusdibo_24
+  - first:
+      213: 7170930727757446680
+    second: m_virusdibo_25
+  - first:
+      213: 6654611257211998628
+    second: m_virusdibo_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: m_virusdibo_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 375
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb2ee1e14f1bdfc0800000000000000
+      internalID: -3469144720135017477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 376
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2468491488b2790800000000000000
+      internalID: -7553794134737796366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 377
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb67781cb1be6c10800000000000000
+      internalID: 2048770301922601968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 379
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402432e88c2cc12d0800000000000000
+      internalID: -3306553859762863612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 439
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a7e00e663d0bd0800000000000000
+      internalID: -2662411958616611184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 286
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3de1c0f28544b0800000000000000
+      internalID: -5456811402932176042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 288
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56fe62e130694c80800000000000000
+      internalID: -8338027467731175845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 286
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d210156114fd30800000000000000
+      internalID: 4464212256390043096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 143
+        width: 78
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa75460b85969750800000000000000
+      internalID: 6311396352144538281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 286
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d55b511c075ab80800000000000000
+      internalID: -8384171156685103786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 210
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50e8656d52f6e90800000000000000
+      internalID: -7030358890796677723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b158af379ca28790800000000000000
+      internalID: -7529265861402013255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 210
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ac4812c3102c80800000000000000
+      internalID: -8349651984792639503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 210
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea1e42da43319290800000000000000
+      internalID: -7885465076100097311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4978cbd9b7bd8d3c0800000000000000
+      internalID: -4334473317370263660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 194
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da03e6bc754526d0800000000000000
+      internalID: -3015927973508085033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 193
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0075d2900cc6c50d0800000000000000
+      internalID: -3432749243919673600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 101
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439bcc66f1df1e080800000000000000
+      internalID: -9159761855784371916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 101
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b941281b1ad890800000000000000
+      internalID: -7432598444569938116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14948593554a1b3a0800000000000000
+      internalID: -6651354488708249279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 103
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b91564e3b2027b50800000000000000
+      internalID: 6589332176450689461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 70
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4263d250c58e074d0800000000000000
+      internalID: -3138753458355751388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af196895be3d96330800000000000000
+      internalID: 3704725176261710330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7cb171bada4070800000000000000
+      internalID: 8091520136176761848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ddba31e378f490800000000000000
+      internalID: -7712286950681618080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e7ae0f083448360800000000000000
+      internalID: 7170930727757446680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_virusdibo_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1df684eade95c50800000000000000
+      internalID: 6654611257211998628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

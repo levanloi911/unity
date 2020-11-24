@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: 2f868c529248ba94da824e57e290e492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3654246786641192170
+    second: benhnhan_0
+  - first:
+      213: 2561564782306403441
+    second: benhnhan_1
+  - first:
+      213: -4235840122553047090
+    second: benhnhan_2
+  - first:
+      213: -6180362155287093275
+    second: benhnhan_3
+  - first:
+      213: -4955884711956615428
+    second: benhnhan_4
+  - first:
+      213: -7704148023459451456
+    second: benhnhan_5
+  - first:
+      213: 2810537197168770683
+    second: benhnhan_6
+  - first:
+      213: 3268547202024992684
+    second: benhnhan_7
+  - first:
+      213: -6711772878417353656
+    second: benhnhan_8
+  - first:
+      213: -2941457346033751459
+    second: benhnhan_9
+  - first:
+      213: 1134756292028016108
+    second: benhnhan_10
+  - first:
+      213: 2999231693489156236
+    second: benhnhan_11
+  - first:
+      213: 4216407316662944067
+    second: benhnhan_12
+  - first:
+      213: 8458297069731818957
+    second: benhnhan_13
+  - first:
+      213: 5950191320620428109
+    second: benhnhan_14
+  - first:
+      213: 9179810408101270212
+    second: benhnhan_15
+  - first:
+      213: -2110801424414919204
+    second: benhnhan_16
+  - first:
+      213: -3781738125042063877
+    second: benhnhan_17
+  - first:
+      213: -1097498603393233248
+    second: benhnhan_18
+  - first:
+      213: -1795306811238746656
+    second: benhnhan_19
+  - first:
+      213: -697676099524352858
+    second: benhnhan_20
+  - first:
+      213: 5570963420662630451
+    second: benhnhan_21
+  - first:
+      213: -6236690161300254444
+    second: benhnhan_22
+  - first:
+      213: 6358585253211307268
+    second: benhnhan_23
+  - first:
+      213: -8790066840654004927
+    second: benhnhan_24
+  - first:
+      213: 4274122612307555285
+    second: benhnhan_25
+  - first:
+      213: -6903324213992709391
+    second: benhnhan_26
+  - first:
+      213: -2723653979171450867
+    second: benhnhan_27
+  - first:
+      213: -8975031675350402665
+    second: benhnhan_28
+  - first:
+      213: 730185995235771187
+    second: benhnhan_29
+  - first:
+      213: -2905909610044881993
+    second: benhnhan_30
+  - first:
+      213: -8076194665131039825
+    second: benhnhan_31
+  - first:
+      213: 8621215938195454814
+    second: benhnhan_32
+  - first:
+      213: 7014778442390529236
+    second: benhnhan_33
+  - first:
+      213: 7565607461729771354
+    second: benhnhan_34
+  - first:
+      213: 306564145840607231
+    second: benhnhan_35
+  - first:
+      213: -5075382506433155256
+    second: benhnhan_36
+  - first:
+      213: -3480440139631672589
+    second: benhnhan_37
+  - first:
+      213: 3881890941673441463
+    second: benhnhan_38
+  - first:
+      213: -2963457028694320510
+    second: benhnhan_39
+  - first:
+      213: -8871597516266784267
+    second: benhnhan_40
+  - first:
+      213: -1504610827788043500
+    second: benhnhan_41
+  - first:
+      213: -5136127378373197111
+    second: benhnhan_42
+  - first:
+      213: -6738815120833780924
+    second: benhnhan_43
+  - first:
+      213: -415438627548595500
+    second: benhnhan_44
+  - first:
+      213: -5411828634886456070
+    second: benhnhan_45
+  - first:
+      213: 3429665832557669352
+    second: benhnhan_46
+  - first:
+      213: -5623972181663604832
+    second: benhnhan_47
+  - first:
+      213: -2802535655914140982
+    second: benhnhan_48
+  - first:
+      213: 4165009831729241569
+    second: benhnhan_49
+  - first:
+      213: 1103701766528203850
+    second: benhnhan_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: benhnhan_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46c57671e76b230800000000000000
+      internalID: 3654246786641192170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 254
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174268609918c8320800000000000000
+      internalID: 2561564782306403441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e0e9d9d54735c0800000000000000
+      internalID: -4235840122553047090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 256
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef58de5d51fa3aa0800000000000000
+      internalID: -6180362155287093275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 259
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6904ac19293bb0800000000000000
+      internalID: -4955884711956615428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 260
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdeba4e03e551590800000000000000
+      internalID: -7704148023459451456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 260
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3441a0b8010720800000000000000
+      internalID: 2810537197168770683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 257
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafeb4cdc563c5d20800000000000000
+      internalID: 3268547202024992684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 256
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84425d8a02efad2a0800000000000000
+      internalID: -6711772878417353656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 209
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae1b7d028dd27d0800000000000000
+      internalID: -2941457346033751459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 210
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce528fcd5d67fbf00800000000000000
+      internalID: 1134756292028016108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 210
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80b389a5596f9920800000000000000
+      internalID: 2999231693489156236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3418d027d10b38a30800000000000000
+      internalID: 4216407316662944067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 208
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda716fe58e16570800000000000000
+      internalID: 8458297069731818957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 208
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b613b0b73539250800000000000000
+      internalID: 5950191320620428109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 210
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25f40fdec356f70800000000000000
+      internalID: 9179810408101270212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 209
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53c5ab94de4b2e0800000000000000
+      internalID: -2110801424414919204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e0573631948bc0800000000000000
+      internalID: -3781738125042063877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 151
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4243c5d6e4c0f0800000000000000
+      internalID: -1097498603393233248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 156
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5764597f9c517e0800000000000000
+      internalID: -1795306811238746656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 181
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4229fa84b5156f0800000000000000
+      internalID: -697676099524352858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 180
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3388a4107b9005d40800000000000000
+      internalID: 5570963420662630451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 180
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41156897753d279a0800000000000000
+      internalID: -6236690161300254444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 151
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d72bb399b3e3850800000000000000
+      internalID: 6358585253211307268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 152
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db0eab7c8630680800000000000000
+      internalID: -8790066840654004927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 152
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d37e01eedbb05b30800000000000000
+      internalID: 4274122612307555285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 151
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ac97e3377230a0800000000000000
+      internalID: -6903324213992709391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 152
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d001860f223a33ad0800000000000000
+      internalID: -2723653979171450867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 151
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7993cd63e38427380800000000000000
+      internalID: -8975031675350402665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334ef14b44222a00800000000000000
+      internalID: 730185995235771187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b381e71b922ca7d0800000000000000
+      internalID: -2905909610044881993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a5f7ddb79bef80800000000000000
+      internalID: -8076194665131039825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 106
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b7318f736b4a770800000000000000
+      internalID: 8621215938195454814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 105
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d461c4d3df795160800000000000000
+      internalID: 7014778442390529236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 106
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9272f6ef6ef860800000000000000
+      internalID: 7565607461729771354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 103
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff43b56772214400800000000000000
+      internalID: 306564145840607231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 63
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe1dc308e9099b0800000000000000
+      internalID: -5075382506433155256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 61
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f24e37122ef2bfc0800000000000000
+      internalID: -3480440139631672589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 60
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8804b8e3f3fd530800000000000000
+      internalID: 3881890941673441463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 60
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a5a81988fafd6d0800000000000000
+      internalID: -2963457028694320510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 59
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f93eac0011c1e480800000000000000
+      internalID: -8871597516266784267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bbc748c6c8e1be0800000000000000
+      internalID: -1504610827788043500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c248ea9c5fc8b8b0800000000000000
+      internalID: -5136127378373197111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443eba3f95bea72a0800000000000000
+      internalID: -6738815120833780924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da7df2f4c01c3af0800000000000000
+      internalID: -415438627548595500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 30
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3e48978255e4b0800000000000000
+      internalID: -5411828634886456070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 30
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe4ef47ee989f20800000000000000
+      internalID: 3429665832557669352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af134d0913a3f1b0800000000000000
+      internalID: -5623972181663604832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 11
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca0fde5ba46b19d0800000000000000
+      internalID: -2802535655914140982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 11
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1b32ff561dc930800000000000000
+      internalID: 4165009831729241569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benhnhan_50
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c72e3b8e2215f00800000000000000
+      internalID: 1103701766528203850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
